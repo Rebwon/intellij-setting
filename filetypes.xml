@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="hbs" approved="true" type="Handlebars/Mustache" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping ext="2611122053500279" type="PLAIN_TEXT" />
-      <mapping ext="hbs" type="PLAIN_TEXT" />
       <removed_mapping ext="hbs" approved="true" type="Handlebars/Mustache" />
     </extensionMap>
   </component>
