@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="hbs" approved="true" type="Handlebars/Mustache" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping ext="2611122053500279" type="PLAIN_TEXT" />
