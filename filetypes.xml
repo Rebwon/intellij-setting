@@ -4,6 +4,7 @@
       <removed_mapping ext="hbs" approved="true" type="Handlebars/Mustache" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".wslconfig" type="PLAIN_TEXT" />
       <mapping pattern="simple-link" type="PLAIN_TEXT" />
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping ext="2611122053500279" type="PLAIN_TEXT" />
