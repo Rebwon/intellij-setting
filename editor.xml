@@ -4,7 +4,7 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
-    <option name="FONT_FAMILY" value="Ubuntu Mono derivative Powerline" />
+    <option name="FONT_FAMILY" value="DejaVu Sans Mono for Powerline" />
   </component>
   <component name="EditorSettings">
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
