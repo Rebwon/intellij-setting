@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="letter" type="PLAIN_TEXT" />
       <mapping ext="invoice" type="PLAIN_TEXT" />
+      <mapping ext=",md" type="PLAIN_TEXT" />
       <mapping ext="report" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
