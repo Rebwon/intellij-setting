@@ -3,7 +3,7 @@
     <property name="created">2020-11-14T19:53:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-11-14T19:59:44</property>
+    <property name="modified">2020-11-14T20:10:12</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -16,10 +16,9 @@
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="CONSOLE_NORMAL_OUTPUT">
+    <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a71818" />
-        <option name="BACKGROUND" value="eed2d2" />
+        <option name="FOREGROUND" value="1b31d2" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -291,16 +290,6 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="264eff" />
-      </value>
-    </option>
-    <option name="LOG_ERROR_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
-    <option name="LOG_EXPIRED_ENTRY">
-      <value>
-        <option name="FOREGROUND" value="eadede" />
       </value>
     </option>
     <option name="List/map to object conversion">
