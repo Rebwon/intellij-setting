@@ -1,0 +1,37 @@
+<scheme name="_@user_pastel-licious" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2020-11-15T17:44:48</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.2.1.0.0</property>
+    <property name="modified">2020-11-15T17:58:58</property>
+    <property name="originalScheme">pastel-licious</property>
+  </metaInfo>
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="e0d6ff" />
+  </colors>
+  <attributes>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="eee8d5" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f9f9f8" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="d3afff" />
+        <option name="ERROR_STRIPE_COLOR" value="71b362" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
