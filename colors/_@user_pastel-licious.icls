@@ -3,7 +3,7 @@
     <property name="created">2020-11-15T17:44:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-11-15T17:58:58</property>
+    <property name="modified">2020-11-15T18:08:54</property>
     <property name="originalScheme">pastel-licious</property>
   </metaInfo>
   <colors>
@@ -12,12 +12,17 @@
   <attributes>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="eee8d5" />
+        <option name="FOREGROUND" value="b9a8e8" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="96fc75" />
       </value>
     </option>
     <option name="TEXT">
